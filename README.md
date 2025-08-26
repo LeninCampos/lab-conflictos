@@ -1,2 +1,4 @@
 # lab-conflictos
-Esta linea fue agregada en feature-a
+<<<<<<< HEAD
+Esta linea fue agregada en feature-b y feature-a
+>>>>>>> origin/main
